@@ -19,8 +19,8 @@ jobs:
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Commit changes
         run: |
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
+            git config --local user.email "ruslanvoloshchenko@outlook.com"
+            git config --local user.name "ruslanvoloshchenko"
             git add -A
             git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
       - name: Pull changes
