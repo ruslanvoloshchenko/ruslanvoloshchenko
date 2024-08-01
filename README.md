@@ -17,8 +17,8 @@ I'm Ruslan, a passionate developer with experience in Full Stack Development.
 
 ## My Followers
 
-<!-- FOLLOWERS-START -->
-<!-- FOLLOWERS-END -->
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
 
 <details>
   <summary>Github Stats ⚡</summary>
