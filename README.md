@@ -1,23 +1,31 @@
 # Hi there 👋
 
-I'm Ruslan, a passionate developer with experience in Full Stack Development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=80&lines=I+am+Ruslan+Voloshchenko;a+passionate+developer+;with+experience+in+Full+Stack+and+DevOps)](https://git.io/typing-svg)
 
 ## 📫 How to reach me
 - Email: voloshchenkoruslan0@gmail.com
 - Skype: live:.cid.51d4c492ed897178
 - Telegram: https://t.me/ruslanv0521
 
-## 🚀 Some Tools I Use
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tᴇᴄʜ sᴛᴀᴄᴋ
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true">
+  <img align="left" alt="GIF description" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif?raw=true">
+</picture>
+<br />
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma,linux,ubuntu,nginx)](https://skillicons.dev)<br/>
+<p align="left">
+  
+  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue)](https://skillicons.dev)
+  [![SkillIcons](https://skillicons.dev/icons?i=nuxt,mongodb,prisma,docker,figma,linux,ubuntu,nginx)](https://skillicons.dev)
+  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+  ![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=followers&url=https://api.github.com/users/ruslanvoloshchenko&suffix=%20followers)
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ruslanvoloshchenko&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruslanvoloshchenko" style="padding-right:20px;" />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=followers&url=https://api.github.com/users/ruslanvoloshchenko&suffix=%20followers)
-
-## ⚡My Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats
 <!--ACTION_START_FLAG:github-followers-->
 <!--ACTION_END_FLAG:github-followers-->
 <!--<details>
@@ -27,6 +35,11 @@ I'm Ruslan, a passionate developer with experience in Full Stack Development.
 </details>-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<p align="center">
+  <a href="https://github.com/ruslanvoloshchenko">
+    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ruslanvoloshchenko&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
+  </a>
+</p>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ruslanvoloshchenko&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanvoloshchenko&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
