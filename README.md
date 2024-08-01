@@ -15,6 +15,11 @@ I'm Ruslan, a passionate developer with experience in Full Stack Development.
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=followers&url=https://api.github.com/users/ruslanvoloshchenko&suffix=%20followers)
 
+## My Followers
+
+<!-- FOLLOWERS-START -->
+<!-- FOLLOWERS-END -->
+
 <details>
   <summary>Github Stats ⚡</summary>
   
