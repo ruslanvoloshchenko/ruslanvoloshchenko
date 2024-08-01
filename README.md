@@ -61,7 +61,9 @@
 <p align="left">
   
   [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue)](https://skillicons.dev)
+  <br />
   [![SkillIcons](https://skillicons.dev/icons?i=nuxt,mongodb,prisma,docker,figma,linux,ubuntu,nginx)](https://skillicons.dev)
+  <br />
   ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
   ![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=followers&url=https://api.github.com/users/ruslanvoloshchenko&suffix=%20followers)
   <br />
