@@ -9,6 +9,45 @@
 
 ## :sparkles: My Followers
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/emeraldacoustics">
+        <img src="https://avatars2.githubusercontent.com/u/161192663" width="100px;" alt="emeraldacoustics"/>
+      </a>
+      <br />
+      <a href="https://github.com/emeraldacoustics">Emerald Acoustics</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M-Killer-dev">
+        <img src="https://avatars2.githubusercontent.com/u/172534608" width="100px;" alt="M-Killer-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/M-Killer-dev">Fullstack Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DenysValentyn">
+        <img src="https://avatars2.githubusercontent.com/u/175963780" width="100px;" alt="DenysValentyn"/>
+      </a>
+      <br />
+      <a href="https://github.com/DenysValentyn">DenysValentyn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thomaszhang0216">
+        <img src="https://avatars2.githubusercontent.com/u/171686676" width="100px;" alt="thomaszhang0216"/>
+      </a>
+      <br />
+      <a href="https://github.com/thomaszhang0216">Thomas Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EmilyChen512">
+        <img src="https://avatars2.githubusercontent.com/u/169452625" width="100px;" alt="EmilyChen512"/>
+      </a>
+      <br />
+      <a href="https://github.com/EmilyChen512">Emily Chen</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tᴇᴄʜ sᴛᴀᴄᴋ
