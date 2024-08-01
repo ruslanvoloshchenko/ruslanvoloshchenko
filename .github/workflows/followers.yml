@@ -15,7 +15,7 @@ jobs:
         id: github-follower
         uses: JieDing/github-followers@main
         env:
-          login: ${{ github.ruslanvoloshchenko }}
+          login: ${{ github.repository_owner  }}
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Commit changes
         run: |
