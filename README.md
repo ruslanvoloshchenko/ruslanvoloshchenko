@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=80&lines=I+am+Ruslan+Voloshchenko;a+passionate+developer+;with+experience+in+Full+Stack+and+DevOps)](https://git.io/typing-svg)
 
