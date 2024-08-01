@@ -7,6 +7,10 @@
 - Skype: live:.cid.51d4c492ed897178
 - Telegram: https://t.me/ruslanv0521
 
+## :sparkles: My Followers
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tᴇᴄʜ sᴛᴀᴄᴋ
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif?raw=true">
@@ -26,15 +30,6 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats
-<!--ACTION_START_FLAG:github-followers-->
-<!--ACTION_END_FLAG:github-followers-->
-<!--<details>
-  <summary>Github Stats ⚡</summary>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ruslanvoloshchenko&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanvoloshchenko&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>-->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <p align="center">
   <a href="https://github.com/ruslanvoloshchenko">
     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ruslanvoloshchenko&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
