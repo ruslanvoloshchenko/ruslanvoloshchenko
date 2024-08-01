@@ -1,0 +1,34 @@
+name: Update README with Followers' Avatars
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Followers
+        id: followers
+        run: |
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/users/ruslanvoloshchenko/followers" > followers.json
+          avatars=$(jq -r '.[].avatar_url' followers.json)
+          echo "$avatars" | while IFS= read -r url; do echo "![Follower]($url)"; done > avatars.md
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- FOLLOWERS-START -->/,/<!-- FOLLOWERS-END -->/c\<!-- FOLLOWERS-START -->\n'$(cat avatars.md)'\n<!-- FOLLOWERS-END -->' README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update followers avatars"
+          git push
