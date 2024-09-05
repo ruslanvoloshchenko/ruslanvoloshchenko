@@ -19,6 +19,13 @@
       <a href="https://github.com/emeraldacoustics">Emerald Acoustics</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Juwan-Hollingsworth">
+        <img src="https://avatars2.githubusercontent.com/u/63868021" width="100px;" alt="Juwan-Hollingsworth"/>
+      </a>
+      <br />
+      <a href="https://github.com/Juwan-Hollingsworth">Juwan H.</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/M-Killer-dev">
         <img src="https://avatars2.githubusercontent.com/u/172534608" width="100px;" alt="M-Killer-dev"/>
       </a>
