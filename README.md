@@ -44,7 +44,7 @@
         <img src="https://avatars2.githubusercontent.com/u/175963780" width="100px;" alt="DenysValentyn"/>
       </a>
       <br />
-      <a href="https://github.com/DenysValentyn">DenysValentyn</a>
+      <a href="https://github.com/DenysValentyn">Smart Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/thomaszhang0216">
