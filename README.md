@@ -23,7 +23,7 @@
         <img src="https://avatars2.githubusercontent.com/u/139961466" width="100px;" alt="auroravirtuoso"/>
       </a>
       <br />
-      <a href="https://github.com/auroravirtuoso">Aurora Virtuoso</a>
+      <a href="https://github.com/auroravirtuoso">Frank Pernice</a>
     </td>
     <td align="center">
       <a href="https://github.com/Juwan-Hollingsworth">
