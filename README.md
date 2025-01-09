@@ -19,18 +19,18 @@
       <a href="https://github.com/emeraldacoustics">Emerald Acoustics</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Juwan-Hollingsworth">
-        <img src="https://avatars2.githubusercontent.com/u/63868021" width="100px;" alt="Juwan-Hollingsworth"/>
-      </a>
-      <br />
-      <a href="https://github.com/Juwan-Hollingsworth">Juwan H.</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/auroravirtuoso">
         <img src="https://avatars2.githubusercontent.com/u/139961466" width="100px;" alt="auroravirtuoso"/>
       </a>
       <br />
       <a href="https://github.com/auroravirtuoso">Frank Pernice</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Juwan-Hollingsworth">
+        <img src="https://avatars2.githubusercontent.com/u/63868021" width="100px;" alt="Juwan-Hollingsworth"/>
+      </a>
+      <br />
+      <a href="https://github.com/Juwan-Hollingsworth">Juwan H.</a>
     </td>
     <td align="center">
       <a href="https://github.com/M-Killer-dev">
