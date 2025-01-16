@@ -37,7 +37,7 @@
         <img src="https://avatars2.githubusercontent.com/u/172534608" width="100px;" alt="M-Killer-dev"/>
       </a>
       <br />
-      <a href="https://github.com/M-Killer-dev">Fullstack Developer</a>
+      <a href="https://github.com/M-Killer-dev">Blockchain & Fullstack Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/DenysValentyn">
