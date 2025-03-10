@@ -23,7 +23,7 @@
         <img src="https://avatars2.githubusercontent.com/u/63868021" width="100px;" alt="Juwan-Hollingsworth"/>
       </a>
       <br />
-      <a href="https://github.com/Juwan-Hollingsworth">Juwan H.</a>
+      <a href="https://github.com/Juwan-Hollingsworth">Juwan H. </a>
     </td>
     <td align="center">
       <a href="https://github.com/auroravirtuoso">
